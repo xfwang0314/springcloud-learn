@@ -1,0 +1,13 @@
+.gradle
+.git/
+.idea/
+build/
+out/
+*.iml
+*.ipr
+*.iws
+__pycache__/
+*.pyc
+logs
+dist
+target
