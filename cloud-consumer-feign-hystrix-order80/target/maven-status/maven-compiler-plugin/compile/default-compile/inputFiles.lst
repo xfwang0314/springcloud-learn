@@ -1,0 +1,4 @@
+F:\Workspace\IntelliJIDEA\springcloud-learn\cloud-consumer-feign-hystrix-order80\src\main\java\org\xfwang\springcloud\controller\OrderHystrixController.java
+F:\Workspace\IntelliJIDEA\springcloud-learn\cloud-consumer-feign-hystrix-order80\src\main\java\org\xfwang\springcloud\OrderHystrixMain80.java
+F:\Workspace\IntelliJIDEA\springcloud-learn\cloud-consumer-feign-hystrix-order80\src\main\java\org\xfwang\springcloud\service\PaymentFallbackService.java
+F:\Workspace\IntelliJIDEA\springcloud-learn\cloud-consumer-feign-hystrix-order80\src\main\java\org\xfwang\springcloud\service\PaymentHystrixService.java

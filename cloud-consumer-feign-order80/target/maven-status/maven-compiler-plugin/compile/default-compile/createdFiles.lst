@@ -1,0 +1,4 @@
+org\xfwang\springcloud\controller\OrderFeignController.class
+org\xfwang\springcloud\config\FeignConfig.class
+org\xfwang\springcloud\OrderFeignMain80.class
+org\xfwang\springcloud\service\PaymentFeignService.class

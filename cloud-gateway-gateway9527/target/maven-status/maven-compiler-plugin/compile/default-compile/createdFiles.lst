@@ -1,0 +1,3 @@
+org\xfwang\springcloud\config\GateWayConfig.class
+org\xfwang\springcloud\GateWayMain9527.class
+org\xfwang\springcloud\filter\MyLogGateWayFilter.class

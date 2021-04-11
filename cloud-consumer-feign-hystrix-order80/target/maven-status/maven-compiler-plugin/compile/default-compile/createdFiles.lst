@@ -1,0 +1,4 @@
+org\xfwang\springcloud\controller\OrderHystrixController.class
+org\xfwang\springcloud\OrderHystrixMain80.class
+org\xfwang\springcloud\service\PaymentHystrixService.class
+org\xfwang\springcloud\service\PaymentFallbackService.class

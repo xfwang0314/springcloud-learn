@@ -1,0 +1,4 @@
+org\xfwang\springcloud\config\Config.class
+org\xfwang\springcloud\controller\PaymentController.class
+org\xfwang\springcloud\PaymentHystrixMain8001.class
+org\xfwang\springcloud\service\PaymentService.class
